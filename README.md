@@ -1,6 +1,7 @@
 # ClassIsland-Theme-FoggyGlass
 一个优雅的ClassIsland玻璃质感主题
 
+灵感源于 [lladlam/ClassIsland-Theme-LFG](https://github.com/lladlam/ClassIsland-Theme-LFG/tree/main)
 ---
 
 ## 预览
