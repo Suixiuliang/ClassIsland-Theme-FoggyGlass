@@ -9,5 +9,5 @@
 
 ## 安装方式
 
-[-] 将Release下的压缩包复制到ClassIsland的主题目录后解压即可
-[ ] 直接从ClassIsland主题市场下载（等待审批中......）
+- [x] 将Release下的压缩包复制到ClassIsland的主题目录后解压即可
+- [ ] 直接从ClassIsland主题市场下载（等待审批中......）
